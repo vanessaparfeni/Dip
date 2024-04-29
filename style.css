@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("Images/fon.png");
+    background-color: #0B0E17;
+    background-blend-mode: unset;
+
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    margin-top: 26px;
+
+}
+
+.logo {
+    background-image: url("Images/logo.png");
+    background-repeat: no-repeat;
+    width: 108px;
+    height: 47px;
+    margin-right: 182.5px;
+    margin-left: 100px;
+   
+}
+
+a {
+    text-decoration: none;
+    color: #ABAEB7;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    /* font-family: roboto; */
+    font-size: 16px;
+    font-weight: 500px;
+    line-height: 18.75px;
+    text-align: right;
+}
+.bed{
+     float: right;
+     width: 1000px;
+height: 1007px;
+left: 849px;
+gap: 0px;
+opacity: 0px;
+margin-left: 849px;
+}
