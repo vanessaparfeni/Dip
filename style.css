@@ -24,13 +24,13 @@ body {
     height: 47px;
     margin-right: 182.5px;
     margin-left: 100px;
-   
+
 }
 
 a {
     text-decoration: none;
     color: #ABAEB7;
-    
+
 }
 
 ul {
@@ -44,12 +44,131 @@ ul {
     line-height: 18.75px;
     text-align: right;
 }
-.bed{
-     float: right;
-     width: 1000px;
-height: 1007px;
-left: 849px;
-gap: 0px;
-opacity: 0px;
-margin-left: 849px;
+
+.bed {
+    float: right;
+    width: 1000px;
+    height: 1007px;
+    margin-left: 849px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -72px;
+
+}
+
+/* .linie {
+    width: 1165.6px;
+    height: 97.13px;
+    padding: 290px;
+    margin-right: 123px;
+    
+} */
+.contact {
+    width: 133px;
+    height: 49px;
+    margin-top: 25px;
+    margin-left: 1687px;
+    color: white;
+    background-color: transparent;
+    border: 1px solid #FFFFFF
+}
+
+.arh {
+    width: 264px;
+    height: 35px;
+    top: 273px;
+    /* font-family: Larken-Medium; */
+    font-size: 15.px;
+    font-weight: 450;
+    letter-spacing: 0.3em;
+    text-align: left;
+    color: #FFC978;
+    display: flex;
+    font-size: bold;
+
+}
+
+.prof {
+    color: white;
+    width: 680px;
+    height: 188px;
+    top: 324px;
+    left: 100px;
+    /* font-family: Larken-Regular; */
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 94px;
+    text-align: left;
+
+}
+
+.design {
+    width: 534px;
+    height: 99px;
+    top: 522px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    color: #ABAEB7;
+}
+
+.wrktgh {
+    width: 212px;
+    height: 59px;
+    margin-top: 671px;
+    margin-left: 100px;
+    color: white;
+    background-color: transparent;
+    border: 1px solid #FFFFFF
+}
+
+.int {
+    width: 749px;
+    height: 100px;
+    top: 900px;
+    font-family: Roboto;
+    font-size: 168px;
+    font-weight: 800;
+    line-height: 100px;
+    text-align: left;
+
+}
+
+.ts {
+    width: 161px;
+    height: 21px;
+    /* top: 1147px; */
+    margin-top: 147px;
+    margin-left: 880px;
+    font-family: Larken-Medium;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.96px;
+    letter-spacing: 0.3em;
+    text-align: center;
+    justify-content: center;
+    color: #FFC978;
+}
+
+.os {
+    width: 500px;
+    height: 77px;
+    top: 1181px;
+   margin-left: 710px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -0 deg;
+    font-family: Larken-Regular;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 77.1px;
+    text-align: left;
+    color: white;
+    text-align: center;
+    justify-content: center;
 }
